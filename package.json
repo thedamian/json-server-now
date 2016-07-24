@@ -1,0 +1,10 @@
+{
+    "name": "json-server-now",
+    "version": "0.0.1",
+    "dependencies": {
+        "json-server": "0.8.16"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
