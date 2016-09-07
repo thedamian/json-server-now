@@ -7,6 +7,6 @@
         "lodash": "4.13.1"
     },
     "scripts": {
-        "start": "node server.js"
+        "start": "json-server faker.js"
     }
 }
